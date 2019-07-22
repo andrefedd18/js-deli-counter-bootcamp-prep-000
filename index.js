@@ -4,5 +4,5 @@ function takeANumber(katzDeli, Ada) {
   return(`Welcome, ${Ada}. You are number ${katzDeli.length} in line.`);
 }
 function nowServing(katzDeliLine, nowServing) {
-  function nowServing(katzDeli)
+  function nowServing(katzDeli) 
 }
