@@ -1,4 +1,4 @@
 var katzDeliLine = [];
-function takeANumber(katzDeliLine, "Ada"); {
+function takeANumber(katzDeliLine) {
   
 }
