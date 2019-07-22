@@ -14,7 +14,7 @@ function nowServing(katzDeli) {
   else
   return (`Currently serving ${katzDeli.shift()}.`);
 }
-function currentLine(kat) {
+function currentLine(katzDeli, Ada) {
   let i = 0;
   while (i < katzDeli.length) {
     line.push(` `+[i+1]+`. `  + katzDeli[i])
