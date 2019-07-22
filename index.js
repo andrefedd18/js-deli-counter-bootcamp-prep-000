@@ -5,4 +5,6 @@ function takeANumber(katzDeli, Ada) {
 }
 function nowServing(katzDeliLine, nowServing) {
   function nowServing(katzDeli) {
+    let i = 0 
+  }
 }
